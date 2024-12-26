@@ -5,7 +5,7 @@ This process contains 2 ways you can install 909 ABUSER™️ (LITE EDITION)
 -
 
 PLUGIN DATABASE INSTALLATION [Recommended]
-1. Download the latest release from here: https://github.com/lunsaiance/909abuser/releases 
+1. Download the latest release from here: https://github.com/lunsaiance/909abuserLITE/releases
 
 2. Extract the Zip
 
@@ -18,7 +18,7 @@ PLUGIN DATABASE INSTALLATION [Recommended]
 -
 
 PATCHER INSTALLATION
-1. Download the latest release from here: https://github.com/lunsaiance/909abuser/releases 
+1. Download the latest release from here: https://github.com/lunsaiance/909abuserLITE/releases
 
 2. Extract the Zip
 
