@@ -12,7 +12,7 @@
 -
 ⚠️ HEADS UP BEFORE DOWNLOADING ⚠️
 
-this will *ONLY* work with FLStudio
+this will *ONLY* work with FLStudio AND
 I *HIGHLY SUGGEST* making *your own* 909s with Xfer Serum
 -
 **!!ALL UPDATES WILL BE POSTED HERE!!**
