@@ -2,7 +2,7 @@
  
  ⚠️ **MAKE SURE YOU READ EVERYTHING HERE BEFORE INSTALLING** ⚠️
 
-(no images have been changed since it is the same UI just slightly changed)
+(no images have been changed since it is the same UI just slightly changed THIS DOESNT REQUIRE PRO Q3)
 
 909 ABUSER™️ by Lunsaiance Audio is a plugin for FLStudio's Patcher, which helps make Gabber & Hardcore Kicks in seconds!
 
