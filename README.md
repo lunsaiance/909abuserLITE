@@ -74,6 +74,6 @@ This is all the info you need to know on using 909 ABUSER™️!
 
 The next step is to download and go through the installation process, which I have put together in the [Installation Instructions](https://github.com/lunsaiance/909abuserLITE/blob/master/Installation%20Instructions.md) file
 
-IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER™️, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD @omglunsai
+IF THERE ARE ANY ISSUES WITH INSTALLATION, 909 ABUSER™️, OR JUST HAVE SOME IDEAS, CONTACT ME OVER ON DISCORD @eclipstral
 
 INSTALLATION INSTRUCTIONS: https://github.com/lunsaiance/909abuserLITE/blob/master/Installation%20Instructions.md
